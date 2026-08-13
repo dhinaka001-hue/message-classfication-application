@@ -1,0 +1,5 @@
+{
+  "name": "Android Messages AI",
+  "description": "A full-featured SMS application with real-time conversation threading, contact integration, and intelligent AI classification.",
+  "requestFramePermissions": ["RECEIVE_SMS", "READ_SMS", "SEND_SMS", "READ_CONTACTS"]
+}
